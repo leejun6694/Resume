@@ -14,7 +14,7 @@ iOS, Swift 를 공부하고 있는 대학생입니다.
 ### iOS
 - 커넥트재단 / [부스트캠프](http://boostcamp.connect.or.kr/) iOS 2th
   - 2017.07 ~ 2017.08 (수료)
-  - iOS 학습 프로젝트 (5주) + 실무 프로젝트 (3주)
+  - iOS 학습 프로젝트 (5주) + 실무 프로젝트 (3주)
   - 개인 과제 [github](https://github.com/leejun6694/BoostCamp_iOS_kooma)
   - 팀 MOGAY [github](https://github.com/leejun6694/BoostCamp_mogay)
   - project/HomeBase/[github](https://github.com/leejun6694/HomeBase)
