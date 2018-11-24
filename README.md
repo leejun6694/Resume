@@ -60,7 +60,7 @@ HomeBase 확장 버전. (+ 서버)
 - `UI/UX 구성`, `Auto Layout`
 
 ### [Fore Message](https://github.com/leejun6694/ForeMessage_iOS)
-옛날 감성 문자 서비스 :)
+옛날 감성 문자 서비스 :)  
 고민하며, 공부하며  개발해보자! (라이브러리 x)
 - 2018.07 ~ (현재 진행 중)
 - `Swift 4`, `xCode10`
