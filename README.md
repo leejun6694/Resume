@@ -10,6 +10,10 @@ iOS, Swift 를 공부하고 있는 대학생입니다.
 - 제주제일고등학교
 - 인하대학교 / 컴퓨터공학과 (**2019.08 졸업 예정**)
 
+## 경력
+[LINE](https://linepluscorp.com/) (internship)
+- 2019.01 ~ 2019.02
+
 ## 활동
 ### iOS
 - 커넥트재단 / [부스트캠프](http://boostcamp.connect.or.kr/) iOS 2th
@@ -20,11 +24,10 @@ iOS, Swift 를 공부하고 있는 대학생입니다.
   - project/HomeBase/[github](https://github.com/leejun6694/HomeBase)
   - project/HomeBase/[AppStore](https://itunes.apple.com/kr/app/homebase-for-baseball-team/id1279185667?l=en&mt=8)
 - 커넥트재단 / [부스트코스](https://www.edwith.org/boostcourse-ios) iOS 에이스
-  - 2018.06 ~ 2018.09 (수료)
+  - 2018.06 ~ 2018.09
   - iOS 학습 및 프로젝트
 - 미래부 창의인재도전 팀
   - 2017.09 ~ 2017.12
-  - iOS 개발자로 참여
   - 과학기술정보통신부 장관상
 
 ### LIKELION
@@ -33,7 +36,7 @@ iOS, Swift 를 공부하고 있는 대학생입니다.
   - Ruby & Ruby on Rails 학습
   - 멋쟁이사자처럼 Hackathon 참가
 - [멋쟁이사자처럼](https://likelion.net/) 6기 인하대 멘토  
-  - 2018.03 ~ 활동 중
+  - 2018.03 ~ 2018.12
   - [OOP & Git 교육](https://slides.com/leejun6694)
 
 ## 프로젝트
