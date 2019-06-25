@@ -65,8 +65,13 @@ HomeBase 확장 버전. (+ 서버)
 
 ### [Fore Message](https://github.com/leejun6694/ForeMessage_iOS)
 옛날 감성 문자 서비스 :)  
-고민하며, 공부하며  개발해보자! (라이브러리 x)
-- 2018.07 ~ (현재 진행 중)
+고민하며, 공부하며  개발해보자! (라이브러리 x)  
+<img src="images/ForeMessage/launch_screen.jpg" width="100">
+<img src="images/ForeMessage/main.jpg" width="100">
+<img src="images/ForeMessage/message_write.jpg" width="100">
+<img src="images/ForeMessage/message_send.jpg" width="100">
+- [AppStore](https://apps.apple.com/kr/app/foremessage/id1463129451)
+- 2018.07 ~ 2019.05
 - `Swift 4`, `xCode10`
 - `APNs`, `Notification Extension Service`
 - `HTTP Request`
