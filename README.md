@@ -70,6 +70,7 @@ HomeBase 확장 버전. (+ 서버)
 <img src="images/ForeMessage/main.jpg" width="100">
 <img src="images/ForeMessage/message_write.jpg" width="100">
 <img src="images/ForeMessage/message_send.jpg" width="100">
+<img src="images/ForeMessage/receive_box.jpg" width="100">
 - [AppStore](https://apps.apple.com/kr/app/foremessage/id1463129451)
 - 2018.07 ~ 2019.05
 - `Swift 4`, `xCode10`
