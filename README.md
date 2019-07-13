@@ -14,6 +14,9 @@ iOS, Swift 를 공부하고 있는 대학생입니다.
 [LINE](https://linepluscorp.com/) (internship)
 - 2019.01 ~ 2019.02
 
+[LINE](https://linepluscorp.com/)
+- 2019.07 ~
+
 ## 활동
 ### iOS
 - 커넥트재단 / [부스트캠프](http://boostcamp.connect.or.kr/) iOS 2th
