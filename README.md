@@ -1,6 +1,6 @@
 # 이준
 
-iOS, Swift 를 공부하고 있는 대학생입니다.
+iOS, Swift 를 공부하고 있습니다.  
 
 #### 개인 정보
 - [Github](https://github.com/leejun6694)
@@ -8,7 +8,7 @@ iOS, Swift 를 공부하고 있는 대학생입니다.
 
 #### 학력
 - 제주제일고등학교
-- 인하대학교 / 컴퓨터공학과 (**2019.08 졸업 예정**)
+- 인하대학교 / 컴퓨터공학과  
 
 ## 경력
 [LINE](https://linepluscorp.com/) (internship)
