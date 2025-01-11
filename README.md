@@ -11,26 +11,29 @@ iOS, Swift 를 공부하고 있습니다.
 - 인하대학교 / 컴퓨터공학과  
 
 ## 경력
+[NAVER](https://www.navercorp.com/)
+- 2024.12 ~
+
+[LINE](https://linepluscorp.com/)
+- 2019.07 ~ 2024.11
+
 [LINE](https://linepluscorp.com/) (internship)
 - 2019.01 ~ 2019.02
 
-[LINE](https://linepluscorp.com/)
-- 2019.07 ~
-
 ## 활동
 ### iOS
-- [야곰 아카데미](https://www.yagom-academy.kr/) 리뷰어
-  - 2021.07 ~
+- [야곰 아카데미](https://yagom.net) 리뷰어
+  - 2021.07 ~ 2023.01
 - [부스트 캠프](http://boostcamp.connect.or.kr/) iOS 2th
   - 2017.07 ~ 2017.08 (수료)
 - [부스트 코스](https://www.edwith.org/boostcourse-ios) iOS 에이스
   - 2018.06 ~ 2018.09
 
 ### ETC
-- [멋쟁이사자처럼](https://likelion.net/) 5기 인하대 멘티   
-  - 2017.03 ~ 2017.12 (수료)
 - [멋쟁이사자처럼](https://likelion.net/) 6기 인하대 멘토  
   - 2018.03 ~ 2018.12
+- [멋쟁이사자처럼](https://likelion.net/) 5기 인하대 멘티   
+  - 2017.03 ~ 2017.12 (수료)
 - 미래부 창의인재도전 팀
   - 2017.09 ~ 2017.12
   - 과학기술정보통신부 장관상
@@ -39,7 +42,7 @@ iOS, Swift 를 공부하고 있습니다.
 ## 프로젝트
 ### Fore Message
 옛날 감성 문자 서비스 :)  
-고민하며, 공부하며  개발해보자! (라이브러리 x)  
+고민하며, 공부하며  개발해보자!  
 <img src="images/ForeMessage/launch_screen.jpg" width="100">
 <img src="images/ForeMessage/main.jpg" width="100">
 <img src="images/ForeMessage/message_write.jpg" width="100">
