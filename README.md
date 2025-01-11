@@ -42,7 +42,7 @@ iOS, Swift 를 공부하고 있습니다.
 ## 프로젝트
 ### Fore Message
 옛날 감성 문자 서비스 :)  
-고민하며, 공부하며  개발해보자!  
+고민하며 개발해보자!  
 <img src="images/ForeMessage/launch_screen.jpg" width="100">
 <img src="images/ForeMessage/main.jpg" width="100">
 <img src="images/ForeMessage/message_write.jpg" width="100">
